@@ -9,7 +9,9 @@ Topics Covered
 8. Difference between auto correlation and partial auto correlation
 
 To be added
-3. freq in seasonal decompose
-4. STL decomposition
-5. arima model 
-6. arma model 
+1. freq in seasonal decompose
+2. STL decomposition
+3. arima model 
+4. arma model 
+5. How can ACF and PACF graphs can help you decide freq for seasonal decompose 
+6. Other ways to implement time series forecast 
