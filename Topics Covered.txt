@@ -10,6 +10,6 @@ To be added
 1. Partial Auto-correlation
 2. Difference between auto correlation and partial auto correlation
 3. freq in seasonal decompose
-4. res.trend, res.seasonal etc
+4. STL decomposition
 5. arima model 
 6. arma model 
