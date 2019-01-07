@@ -5,10 +5,10 @@ Topics Covered
 4. Auto correlation plots
 5. Persistence Model 
 6. Seasonal Decompose
+7. Partial Auto-correlation
+8. Difference between auto correlation and partial auto correlation
 
 To be added
-1. Partial Auto-correlation
-2. Difference between auto correlation and partial auto correlation
 3. freq in seasonal decompose
 4. STL decomposition
 5. arima model 
