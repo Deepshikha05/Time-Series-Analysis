@@ -8,3 +8,4 @@
 6. Seasonal Decompose
 7. Partial Auto-correlation
 8. Difference between auto correlation and partial auto correlation
+9. ACF 
